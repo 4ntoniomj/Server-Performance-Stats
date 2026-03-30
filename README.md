@@ -32,7 +32,7 @@ The script relies on standard Linux utilities. Ensure you have the following ins
 
 1.  **Clone or download the script:**
     ```bash
-    git clone [https://github.com/4ntoniomj/Server-Performance-Stats](https://github.com/4ntoniomj/Server-Performance-Stats)
+    git clone https://github.com/4ntoniomj/Server-Performance-Stats
     cd repo-name
     ```
 
