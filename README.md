@@ -1,3 +1,7 @@
+https://roadmap.sh/projects/server-stats
+
+---
+
 # Bash System Monitor 🚀
 
 A lightweight, real-time system monitoring tool written in Bash for Linux environments. This script provides a quick, color-coded overview of critical system resources, high-consumption processes, and security logs directly from your terminal.
